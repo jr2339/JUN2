@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![Travis build status](https://travis-ci.com/jr2339/JUN2.svg?branch=master)](https://travis-ci.com/jr2339/JUN2)
 <!-- badges: end -->
 
 The goal of JUN2 is to …
